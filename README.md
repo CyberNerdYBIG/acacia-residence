@@ -1,9 +1,9 @@
 <h1 align="center">
-  ✨ AI-Powered Hostel Management System ✨
+  ✨ AI-Powered Acacia Residence System✨
 </h1>
 
 <p align="center">
-  <strong>Created with ❤️ by Laksh Kadyan | Jain University, Bengaluru</strong><br>
+  <strong>Created with ❤️ by Yves | AU</strong><br>
   <em>Team Members: Manan Jain • Palak Maheshwari • Prabhansh Rai</em>
 </p>
 
@@ -19,7 +19,7 @@
 
 ## 🌟 Overview
 
-🚀 The AI-Powered Hostel Management System is a dynamic PHP + MySQL web application enhanced with a JavaScript-based AI chatbot. It allows students to register, log in, and book hostels based on academic year preferences. Admins can monitor student data, approve bookings, and manage hostel logistics—all through an intuitive dashboard.
+🚀 The AI-Powered Acacia Residence is a dynamic PHP + MySQL web application enhanced with a JavaScript-based AI chatbot. It allows students to register, log in, and book hostels based on academic year preferences. Admins can monitor student data, approve bookings, and manage hostel logistics—all through an intuitive dashboard.
 
 ---
 
@@ -153,16 +153,14 @@ Hostel-Management-UsingAI/
 
 | Name             | Role                         |
 |------------------|------------------------------|
-| **Laksh Kadyan** | Full Stack Dev & Chatbot AI  |
-| **Manan Jain**   | DB Design & Admin Logic      |
-| **Palak Maheshwari** | UI Design & Testing      |
-| **Prabhansh Rai**    | Payment & Billing Flow   |
+| **Angela** | Full Stack Dev & Chatbot AI  |
+| **Raphael**   | DB Design & Admin Logic      |
+| **Munashe** | UI Design & Testing      |
+| **Ashley and Dennis**    | Payment & Billing Flow   |
 
 ---
 
 ## 📝 License
-
-Licensed under the [MIT License](https://opensource.org/licenses/MIT)  
 Feel free to fork, contribute, and enhance this project!
 
 ---
