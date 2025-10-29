@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Created with ❤️ by Yves | AU</strong><br>
-  <em>Team Members: Manan Jain • Palak Maheshwari • Prabhansh Rai</em>
+  <em>Team Members: Angela, Yves, Munashe, Raphael, Dennis and Munashe</em>
 </p>
 
 ---
